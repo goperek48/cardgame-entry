@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/c/best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/goperek48/cardgame-entry/rank.svg)](https://make.fun/c/best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/goperek48/cardgame-entry/reward.svg)](https://make.fun/c/best-card-game-20261122-1826)
+
 # Ember Court — best-card-game-20261122-1826
 
 A complete, original card duel that plays offline in a desktop browser from
